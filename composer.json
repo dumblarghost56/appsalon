@@ -1,0 +1,17 @@
+{
+    "name": "alvaro/appsalon",
+    "description": "Proyecto con PHP 8, SASS, Gulp, Js, Node, Mysql, etc",
+    "autoload": {
+        "psr-4": {
+            "MVC\\":"./",
+            "Controllers\\":"./controllers",
+            "Model\\":"./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dumblarghost"
+        }
+    ],
+    "require": {}
+}
